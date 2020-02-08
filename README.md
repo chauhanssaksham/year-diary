@@ -5,7 +5,7 @@ The basic idea is to emulate a physical year diary on a web app, and keep it as 
 
 ## Getting Started
 
-This project is built on nodeJS, at the time of creation it has **node version v12.13.0** and **npm version v6.13.6**
+This project is built on nodeJS, at the time of creation it has **node version v12.13.0** and **npm version v6.13.7**
 
 1. Clone this code in  a folder, and run `npm install` to install the packages required
 2. Navigate to the working folder on terminal, and run `npm start` to run a deployment version

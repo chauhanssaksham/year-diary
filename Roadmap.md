@@ -1,13 +1,11 @@
 # Roadmap
-====
-	All the ideas and todos for future releases, and all the basic planning is done here
+All the ideas and todos for future releases, and all the basic planning is done here
 
 ## The basic app
-====
 
-	Users will be able to log into their accounts, and the homepage by default should show their tasks for the current day.
+Users will be able to log into their accounts, and the homepage by default should show their tasks for the current day.
 
-	They should be able to go to any date of any year and set and view tasks at that day. Tasks, like all todo apps, should have the functionality to be marked complete, and no-longer-important as well (Personal choice, as I can barely complete all the tasks I set for myself)
+They should be able to go to any date of any year and set and view tasks at that day. Tasks, like all todo apps, should have the functionality to be marked complete, and no-longer-important as well (Personal choice, as I can barely complete all the tasks I set for myself)
 
 ### The basic requirements (For V1.0):
 Release 1.0 and onwards will feature the basic functionality that gets the app _working and deployed (i.e., production ready)_ on **Desktop sites**. There will be less focus on the fronted and UI and more on the basic functionality.
