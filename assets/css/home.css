@@ -1,0 +1,8 @@
+.diary{
+    width:500px;
+    height:650px;
+    margin:70px auto;
+    background-color: brown;
+    font-size:3rem;
+    background: rgba(255,0,0,0.7) /*url('/images/backgrounds/cardboard.png')*/;
+}

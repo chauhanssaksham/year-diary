@@ -1,0 +1,14 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+    background:#fde3a7 url('/images/backgrounds/purty_wood.png') 50% repeat;
+}
+.flex{
+	display: flex;
+	flex-wrap:wrap;
+}
+.relative{
+	position:relative;
+}
