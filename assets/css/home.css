@@ -1,8 +1,29 @@
 .diary{
     width:500px;
     height:650px;
-    margin:70px auto;
+    margin:68px auto;
     background-color: brown;
     font-size:3rem;
     background: rgba(255,0,0,0.7) /*url('/images/backgrounds/cardboard.png')*/;
+}
+.form-box {
+    border: 1px dashed black;
+    width:50%;
+    position: relative;
+    left:25%;
+    top:30%;
+    text-align: center;
+    /* vertical-align: center; */
+    max-height:260px;   /*40% of the height*/
+    padding:20px 0;
+}
+.form-box h5{
+    color:white;
+    font-family:sans-serif;
+    font-size:0.7em;
+}
+form input{
+    line-height:1.1rem;
+    font-size:1.1rem;
+    margin:0 auto;
 }

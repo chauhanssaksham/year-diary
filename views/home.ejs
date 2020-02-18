@@ -1,4 +1,11 @@
 <link rel="stylesheet" href="/css/home.css">
 <div class="diary">
-    hello
+    <div class="sign-in form-box">
+        <h5>Sign In</h5>
+        <form action="/users/create-session" method="POST" class="form">
+            <input type="email" name="email" placeholder="Email Id" required><br>
+            <input type="password" name="password" placeholder="Password" required><br>
+            <input type="submit" value="Sign In">
+        </form>
+    </div>
 </div>
